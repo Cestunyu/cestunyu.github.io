@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Linen Yu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://ws3.sinaimg.cn/large/006tNc79gy1g2bxn1cp5tj30sg0sgaca.jpg"
   bio              : "I went to the woods because I wished to live deliberately, 
   to front only the essential facts of life."
   location         : "Hangzhou, China"
