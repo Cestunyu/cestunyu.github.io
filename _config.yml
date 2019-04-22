@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Linen Yu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Wir müssen wissen,wir werden wissen. | We must know, we will know."
+  bio              : "讀書當一意在書，游山水當一意在山水。乘興所至，心無旁及。"
   location         : "Hangzhou, China"
   email            : "itmaybeyu@gmail.com"
   links:
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/cestunyu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
