@@ -48,7 +48,7 @@ Part 1 views life as tragedy, moving from the bleak funeral march of the first m
 Mahler had written funeral marches before—the first three symphonies all include them—but this is a new kind of funeral music: tough as nails, lean, scrubbed clean of simple pictorial touches. <u>It is a much more concise movement than the tremendous march that opens the Resurrection Symphony.</u> 
 
 * Here the march gives way to a defiant trio—a terrible outburst of grief; 
-* then the cortège returns, followed by the trio, now dragged down to the march’s slow, lumbering pace. 
+* then the cortège returns, followed by the trio, now dragged down to the march’s slow, lumbering pace. 
 * Near the end there is a new idea, full of yearning—a rising minor ninth falling to the octave—that will find fulfillment in the second movement, just as that movement will echo things already developed here. 
 * The trumpet calls the first movement to a close, in utter desolation.
 
@@ -83,7 +83,7 @@ The great central scherzo caused problems at the first rehearsal. From Cologne M
 
 > The scherzo is the very devil of a movement. I see it is in for a peck of troubles! Conductors for the next fifty years will all take it too fast and make nonsense of it; and the public—oh, heavens, what are they to make of this chaos of which new worlds are forever being engendered? 
 
-It is hard to know just how fast Mahler felt this music should go—it is marked “vigorously, not too fast”— and today his peculiar mixture of ländler (a nice country dance) and waltz (more upscale) seems neither chaotic nor nonsensical, although it is still provocative. 
+It is hard to know just how fast Mahler felt this music should go—it is marked “vigorously, not too fast”— and today his peculiar mixture of ländler (a nice country dance) and waltz (more upscale) seems neither chaotic nor nonsensical, although it is still provocative. 
 
 The whole is an ebullient dance of life, with moments of simple nostalgia, and, when the horns seem to call across mountain valleys, an almost childlike wonder. 
 
@@ -114,7 +114,6 @@ Finally, a word about Mahler’s choice of key. The Fifth Symphony begins in C-s
 
 
 
-6:22 The flute-Heartbreakingly beautiful.
 
 
 
